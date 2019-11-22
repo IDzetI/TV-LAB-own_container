@@ -1,0 +1,6 @@
+/.idea/
+/data/
+id_rsa
+go.sum
+/main
+/vendor/
